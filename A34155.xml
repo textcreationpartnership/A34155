@@ -1,0 +1,493 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Complaining testimony of some (though weak and of the least) of Sions children in this day of their sore calamity occasioned at their meeting to seek the Lord at Abingdon in Barkshire the second day of the eighth month, 1656 : being a short narrative of the inhumane dealings of some officers and souldiers who said they had order from their lord for so doing.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34155</idno>
+            <idno type="STC">Wing C5611</idno>
+            <idno type="STC">ESTC R29672</idno>
+            <idno type="EEBO-CITATION">11192155</idno>
+            <idno type="OCLC">ocm 11192155</idno>
+            <idno type="VID">46637</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34155)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46637)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1438:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Complaining testimony of some (though weak and of the least) of Sions children in this day of their sore calamity occasioned at their meeting to seek the Lord at Abingdon in Barkshire the second day of the eighth month, 1656 : being a short narrative of the inhumane dealings of some officers and souldiers who said they had order from their lord for so doing.</title>
+               </titleStmt>
+               <extent>[2], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Livewel Chapman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46637:1"/>
+            <pb facs="tcp:46637:1" rendition="simple:additions"/>
+            <p>THE Complaining Teſtimony of ſome (though weak, and of the leaſt) of <hi>Sions</hi> Children in this day of their ſore Calamity; occaſioned at their Meet<g ref="char:EOLhyphen"/>ing to ſeek the Lord at <hi>Abingdon</hi> in <hi>Barkeſhire,</hi> the ſecond day of the eighth MONTH, 1656.</p>
+            <p>Being a ſhort NARRATIVE Of the inhumane dealings of ſome OFFICERS and SOULDIERS, who ſaid, <hi>They had Order from their LORD for ſo doing.</hi>
+            </p>
+            <q>
+               <bibl>Mal. 3. 15, 16.</bibl> And now we call the proud happy; yea, they that work wicked<g ref="char:EOLhyphen"/>neſs are ſet up; yea, they that tempt God are delivered. Then they that feared the Lord ſpake often one to another: and the Lord hearkned, and heard, and a book of remembrance was written for them that feared the Lord, and thought upon his Name.</q>
+            <q>
+               <bibl>Act. 7. 34.</bibl> I have ſeen, I have ſeen the afflictions of my people; I have heard their groanings, and am come down to deliver them.</q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Livewel Chapman,</hi> at the Crown in Popes-head-Alley, 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:46637:2" rendition="simple:additions"/>
+            <pb facs="tcp:46637:2"/>
+            <head>To the faithful Remnant of the Womans ſeed, who keep the Commandments of God, and the Teſtimony of Jeſus: together with every Impartial Reader.</head>
+            <p>WHen the Lord did firſt engage our hearts to wait upon him ac<g ref="char:EOLhyphen"/>cording to the enſuing Relation, it was much upon ſome of our ſpirits, that we ſhould ſee the glory of God, though we could not apprehend the manner of his appearance; much leſs could we in the least ſuppoſe his anſwer would be as after was manifeſt. But the onely-wiſe God, who knoweth how to order all things for his glory, can make <hi>the wrath of man praiſe him, and the remainder thereof reſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain:</hi> upon which account, the enſu<g ref="char:EOLhyphen"/>ing Relation being thought neceſſary to be publiſhed, is preſented to your pe<g ref="char:EOLhyphen"/>ruſal; hoping, that as experience of his goodneſs hath been ſome refreſhment unto us, (who have ſubſcribed the ſame, being all of us perſonally preſent, ſome at the one part, others at the other part of the tranſactions therein men<g ref="char:EOLhyphen"/>tioned, and ſufferers in ſome degree or other in the ſame) it will adminiſter ſome refreſhment unto you alſo; that we may be thereby united with on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heart in one common Cauſe, though contemned, deſpiſed, and reproached, by thoſe who did formerly walk with us hand in hand therein, from which they have ſo openly Apoſtatized; and alſo, what you and we muſt expect from them, unleſs the Lord ſhould leave us to betray him with a kiſs, as they have done: But we truſt, that relying upon his grace, he will keep us by his migh<g ref="char:EOLhyphen"/>ty power through faith unto the day of ſalvation, when we ſhall with rejoy<g ref="char:EOLhyphen"/>cing ſay, <hi>Lo, this is our God, we have waited for him: we will be glad and re<g ref="char:EOLhyphen"/>joyce in his ſalvation.</hi>
+            </p>
+            <closer>
+               <signed>Your poor unworthy brethren, deſirous to be found faithful in this day of <hi>Zions</hi> tribulation:
+<list>
+                     <item>Of the Ch. at <hi>Abi.</hi>
+                        <list>
+                           <item>John Tomkins,</item>
+                           <item>Iohn Combes,</item>
+                           <item>Simon Mayo,</item>
+                           <item>Edw. Stennet,</item>
+                           <item>Plalip Lockton,</item>
+                           <item>William White,</item>
+                           <item>Rich. Green,</item>
+                           <item>Rich. Terrel,</item>
+                           <item>Simon Peck.</item>
+                        </list>
+                     </item>
+                     <item>Of the Ch. at <hi>Oxf.</hi>
+                        <list>
+                           <item>Rich. Tidmarſh,</item>
+                           <item>Rich. Quelch.</item>
+                        </list>
+                     </item>
+                     <item>Of <hi>Hull.</hi>
+                        <list>
+                           <item>Thom. Cann,</item>
+                           <item>Pet. Tindal.</item>
+                        </list>
+                     </item>
+                     <item>Of <hi>London.</hi>
+                        <list>
+                           <item>Iohn Pugh,</item>
+                           <item>Iohn Green,</item>
+                           <item>Fran. Walton,</item>
+                           <item>Ioſeph Neat,</item>
+                           <item>Tho. Buttivan,</item>
+                           <item>Ric. Parnham,</item>
+                           <item>Iohn Rye,</item>
+                           <item>Rich. Denton,</item>
+                           <item>Tho. Whe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ler,</item>
+                           <item>Iohn Tuſucl,</item>
+                           <item>Ioh. Portmans,</item>
+                           <item>Iohn Clark,</item>
+                           <item>Iohn Armiger,</item>
+                           <item>Iohn Woodly,</item>
+                           <item>Fran: Young,</item>
+                           <item>David Parry,</item>
+                           <item>Iohn Clements.</item>
+                           <item>Iohn Iones<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </item>
+                           <item>Iohn Waters,</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <item>Hen. Forty of <hi>Tatnes,</hi> Churches</item>
+                           <item>Rich. Steed of <hi>Dartmouth,</hi> Churches</item>
+                           <item>George Allom of <hi>Exeter,</hi> Churches</item>
+                        </list>
+                     </item>
+                     <item>Of <hi>Northwalſham<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                        <list>
+                           <item>Hen. Simmons</item>
+                           <item>Thomas Ruddock,</item>
+                           <item>Tho. Hide, Tho. Helsden.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <item>William Wainſord, of <hi>Norwich.</hi>
+                           </item>
+                           <item>Fran: Langden of <hi>Cornwal,</hi>
+                           </item>
+                           <item>Hen. Preston.</item>
+                        </list>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_army">
+            <pb facs="tcp:46637:3"/>
+            <head>A Word to ſuch of the Army, eſpecially thoſe of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Troops as are in any meaſure ſenſible of the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this DAY, and mourning for the ſame.</head>
+            <p>
+               <hi>IT was, and is ſtill upon our hearts, that the</hi> Lo<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>grieved for the great tranſgreſsions of the Sodomitiſh generation among whom they live, might be delivered, before the judgements of the Lord break forth: for,</hi> if his wrath be kindled <hi>(yea)</hi> but a little, bleſſed are all they that truſt in him: <hi>and therefore for your ſakes was this ſhort Epi<g ref="char:EOLhyphen"/>ſtle penned, to the end, that, if the Lord ſo pleaſe, you might be no longer deceived with vain words, by thoſe from whom you do ſuppoſe that the great things you firſt engaged for on the behalf of Chriſt and his people might be attained, and that they might return from whence they are fallen, and do their first works; though the bottom upon which they now ſtand, ſeems to us to give little ground of hopes for any ſuch thing: for</hi> men do not ga<g ref="char:EOLhyphen"/>ther grapes of thorns, or figs of thiſtles. <hi>Beſides, they perſecute that Spirit appearing in any of thoſe who are but</hi> enquiring the way to Zion, with their faces thitherward: <hi>witneſs the many priſoners now ſuffering for the Cauſe of our Lord Jeſus, beſides the cruel uſage of others mention<g ref="char:EOLhyphen"/>ed in this enſuing Relation. This therefore we deſire to leave with you, in the fear of the Lord, That you would flee out from the midst of them, and de<g ref="char:EOLhyphen"/>liver every man his ſoul, that you may eſcape the judgments of God, and be free from the blood of your brethren; which you will unavoidably be invol<g ref="char:EOLhyphen"/>ved in, ſo far as we can diſcern, if you continue in your preſent ſtation, as ſome have been already in theſe last tranſactions: and if ſo, as you partake of their ſins, you will partake of their plagues. Thus leaving you to the pe<g ref="char:EOLhyphen"/>ruſal of this Relation, hoping that it may be of ſome uſe, either to convince, or elſe to leave this further Testimony, That if you periſh, your blood will be upon your own heads: though it be otherwiſe longed for, and prayed for, by</hi>
+            </p>
+            <closer>
+               <signed>Your unworthy brethren, mourning with you, and praying for your return:
+<list>
+                     <item>
+                        <hi>Of Northwalſham.</hi>
+                        <list>
+                           <item>Hen. Simons.</item>
+                           <item>Thomas Ruddock.</item>
+                           <item>Robert Hide.</item>
+                           <item>Tho. Helſden.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Of Norwich.</hi>
+                        <list>
+                           <item>Will. Waynford.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Of Cornwal,</hi>
+                        <list>
+                           <item>Fran: Langden.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Of Hull,</hi>
+                        <list>
+                           <item>Tho. Cann,</item>
+                           <item>Peter Tindal.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Of London,</hi>
+                        <list>
+                           <item>John Pugh,</item>
+                           <item>John Green.</item>
+                           <item>Fran: Walton.</item>
+                           <item>Joſ. Neat.</item>
+                           <item>Tho. Buttivant.</item>
+                           <item>Rich: Parnham.</item>
+                           <item>John Rye.</item>
+                           <item>Rich: De<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>.</item>
+                           <item>Tho: Whce<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>
+                           </item>
+                           <item>John Tu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>d.</item>
+                           <item>John Portmans.</item>
+                           <item>John Clarke.</item>
+                           <item>John Armiger.</item>
+                           <item>John Woodly.</item>
+                           <item>David <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>
+                           </item>
+                        </list>
+                     </item>
+                  </list> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:46637:3"/>
+            <head>
+               <hi>The complaining Teſtimony of ſome of</hi> Sions <hi>children, though moſt unwor<g ref="char:EOLhyphen"/>thy; or, A ſhort Narrative of the inhumane dealings of ſome Officers and Souldiers at</hi> Abingdon, <hi>the ſecond day of the eighth Month,</hi> 1656.</head>
+            <p>IT having pleaſed the Lord to take unto himſelf a choice and eminent Servant of his, to wit, <hi>Joh. Pendarves,</hi> Miniſter of the Goſpel, and Paſtor of that Congre<g ref="char:EOLhyphen"/>gation at <hi>Abingdon;</hi> whoſe interring we did meet to ſolemnize the 30th of the 7th Month, that being one end of our coming together: judging it our duty to perform the laſt office of love to ſo faithful a Servant as he was, indeed a Prince in <hi>Iſrael,</hi> who did in his life time naturally care for <hi>Sions</hi> welfare, wholly giving himſelf up unto the Lord's work: and hereby a price and oportunity was put into our hands to bring many of the Lord's people together, from ſeveral parts of the Nation, in this dark and gloomy day, to ſeek his face for the underſtanding of his minde and will, what his Remnant (remaining faithful in this great day of A<g ref="char:EOLhyphen"/>poſtacy) ought to do. To which end, there were ſeveral heads agreed upon; ac<g ref="char:EOLhyphen"/>cording to which they might ſeek his face with underſtanding, as by theſe parti<g ref="char:EOLhyphen"/>culars here mentioned, will more plainly appear:</p>
+            <p n="1">1. That we humble our ſelves before the Lord for all our ſins and iniquities, wherein we have juſtly provoked the eyes of his holineſs, through our lukewarm<g ref="char:EOLhyphen"/>neſs, indifferency of Spirit, raſhneſs, and want of love i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this great day of open Apoſtacy and backſliding; wherein, it is to be feared, we have much added to the meaſure of the iniquity of this day.</p>
+            <p n="2">2. That notwithſtanding all the complaints of the Lord's people, there hath not been that diligent heart-ſearching into the minde and will of the Lord, what his people ought to do.</p>
+            <p n="3">3. To remember before the Lord with mourning, that there is not that natural care for <hi>Sion,</hi> as there ought to be, eſpecially, when he hath chaſtened us by taking away ſuch choice Inſtruments as he hath done of late: but moſt men now, ſeeking their own, and building their own cieled houſes, ſaying, <hi>The time is not yet:</hi> the time that the Lord's houſe ſhould be built.</p>
+            <p n="4">4. To entreat earneſtly of the Lord, that he would be pleaſed ſo to own this preſent Meeting, that the light which he hath given in amongſt the body of his people inquiring after his minde and will in this day might be ſo gathered into one as that we might be able to read his minde and will, together with our duty, in this dark and gloomy day: And, that he would pour forth a plentiful portion o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Spirit upon the Remnant of his faithful ones, whereby they may be enabled t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> proſecute his minde and will ſo made known unto them.</p>
+            <p n="5">5. To remember the afflictions of <hi>Joſeph</hi> in all the parts and quarters of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> world, and particularly in this Nation, wherein the Saints are impriſoned, eſpe<g ref="char:EOLhyphen"/>cially by thoſe that are under ſo great a profeſſion of Light.</p>
+            <p n="6">6. That God would be pleaſed to deliver them that are inſnared with the A<g ref="char:EOLhyphen"/>poſtacy of the times, and remove them that ſtand in the way of his work.</p>
+            <pb n="2" facs="tcp:46637:4"/>
+            <p>Nevertheleſs, leaving the Spirit of the Lord to breath in his people as he ſhould pleaſe to miniſter unto them.</p>
+            <p>And accordingly upon the day above mentioned, we met together at <hi>Abing<g ref="char:EOLhyphen"/>don,</hi> in the houſe of the late deceaſed Servant of the Lord; and we may with a holy boldneſs declare. That we did in ſome meaſure behold the light of his coun<g ref="char:EOLhyphen"/>tenance that day breathing through ſuch of his ſervants, whoſe hearts were ſtirred up to ſpeak unto and from the Lord. The next day being the firſt inſtant, we were again met together and ſpent the whole day in waiting upon him: where we de<g ref="char:EOLhyphen"/>ſire to acknowledge with humility and thankfulneſs, That (though we were un<g ref="char:EOLhyphen"/>worthy to receive any thing from our Father, yet) ſome of us and many others did behold ſuch tokens of his preſence, by his ſmiling countenance through our Lord Jeſus Chriſt, ſuch quicknings of his Spirit, ſuch melting &amp; brokenneſs of heart, ſuch taſtes of his peace and joy, ſuch renewings of firſt-love, ſuch endearing of Saints to each other, ſuch longings after the glory of God, and groanings for the proſperity of <hi>Sion;</hi> as ſome ancient Profeſſors <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffirmed, they ſeldom experienced the like: divers of the Souldiers and others (though adverſaries to this Meeting) were forced to acknowledge God was amongſt us of a truth; and in particular, when the party came on with violence upon our friends, one of the Souldiers had this word, <hi>Pſal.</hi> 105. 15. ſet upon his ſpirit with much power, (as he profeſt) <hi>Touch not mine anointed, and do my Prophets no harm:</hi> he was a Brother, and promiſed to break his ſword when he came home.</p>
+            <p>For which we deſire to bleſs and praiſe the Name of the moſt High our Father, becauſe he hath not forſaken them that ſeek him, nor is it a vain thing to wait at his poſts.</p>
+            <p>The next morning, being the ſecond inſtant, we intended to have met again, the former refreſhings having thereunto ſweetly engaged us: but being prevented, we ſhall give a plain account thereof, and bleſs Jehovah for the worſt men have or can do to us, ſeeing our God will turn that alſo to his praiſe, and the ſame doth and will work together for the exceeding good of them that ſincerely love him.</p>
+            <p>About ſeven in the morning, ſeveral of us lodging at the ſign of the Lamb in <hi>Abingdon,</hi> were in the Inn-yard, ſome looking to their horſes, others getting themſelves ready, the better to be prepared for the meeting intended, had the Lord pleaſed to have afforded it unto us: about which time three Troopers came into the Inn; and after they had put up their horſes, went up ſtairs to another of their company who had continued in the Inn (moſt part of the time that we were there) as a ſpy, to take notice, and give information of what he could hear and ſee done amongſt us. Preſently after, they went into ſeveral of our chambers, and took away a Hawking-bag belonging to one <hi>George Allom</hi> of <hi>Exceter,</hi> being a Meſ<g ref="char:EOLhyphen"/>ſenger of the Church there; and took out of it all his writings, being as we un<g ref="char:EOLhyphen"/>derſtand of private concernment only: whereupon it was asked by what autho<g ref="char:EOLhyphen"/>rity they did it: to which they replied, That they had order: but the queſtion being again put, Where their order was, they put their hands upon their ſwords,
+<pb n="3" facs="tcp:46637:4"/> and ſaid, There was their order: to which ſome of us ſaid, That if they could produce no other order, a High-way-man, demanding our purſes, could produce as good a commiſſion for his action as they did. Upon this, another came in, be<g ref="char:EOLhyphen"/>ing, as we afterwards underſtood, Commander of the party then in the Town, Lieutenant <hi>Barker</hi> by name: ſome of our Friends asked him alſo by what autho<g ref="char:EOLhyphen"/>rity this ſearch was made: to which he replied. That it was ſufficient he ſaid he had order for what he did, and that he was not bound to ſhew his order if he had any, to every one that asked him. But our Friends ſtill preſſing for a ſight of his order, with words ſpoken to the ſame purpoſe aformentioned, by which the ſaid Lieutenant was much inraged, riding ſuriouſly about the Inn-yard ſtriking ſeveral of our Friends violently with his Cane, endeavoring to ride over them with his horſe, uſing many uncivil words towards us, commanding us to go up to our chambers, ſaying, That we ſhould know, if he commanded us to go up, we muſt go, without any farther inquiry.</p>
+            <p>Soon after this, ſome of us went out of the Inn to the meeting place, intending to have gone in, but two Troopers keeping centinel at the door refuſed to give liberty to any man, preſenting Piſtols to their breſts to hinder them from going in<g ref="char:EOLhyphen"/>to the place, and in particular our Brother <hi>Mayo,</hi> who lived there, was ſo far hindered from coming in, that they cocked their Piſtols, and preſented them to his breſt, ſo that he was forced ſuddenly to ſtep back, fearing leſt they ſhould fire upon him. From thence, our Friends being diſappointed of their meating <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent into the Market-place: one of our Brethren began in prayer, another ſeconded him in ſpeaking, after him our Brother <hi>Jones</hi> of <hi>Longworth</hi> in <hi>Barkſhire,</hi> an ancient grave Chriſtian, who was formerly perſecu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by the Biſhops proc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rded with a word of exhortation: then our Brother <hi>Auſten</hi> a member of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church at <hi>Oxford,</hi> who was late a member of the Army, exerciſing. The Souldiers drew <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound about us, and after a ſhort time made an attempt upon u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, hoping to have ſcattered us; which the Lord prevented, though no oppoſition was made on our parts: then the Trumpet ſounding, they drew off, and came on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gain in a body with much violence: the Commander of the party came in, and broke through violently with his ſword drawn (having firſt broken his Cane) he cut divers, one of our hats being ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhed in three or four places; and moſt of the Souldiers, ſome with drawn ſwords, others with ſwords in their ſcabbards, violently ſmiting, and driving us one from another, whereby we were forced to deſiſt from our duty unto God the Lord of hoſts, before whoſe throne we were in prayer, and continued, till pulled down by force: one was forced to tumble over ſtones to ſhift their ſtrokes to his hurt, by another <note n="*" place="margin">
+                  <hi>Note, that the Officers car<g ref="char:EOLhyphen"/>ryed themſelves more uncivilly then the com<g ref="char:EOLhyphen"/>mon Troopers.</hi>
+               </note> Officer endeavouring to ride over him, ſpurring and beating his horſe to that purpoſe; but the Lord ſuffered it not to be. Some had their Garments rent and torn on their backs: ſome offering to go and ſee their friends (ſeized upon in the tumult) were threatned to have their ſwords thruſt through their howels: ſeveral being haled about the Market-place ſo long, that one of their ow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>:
+<pb n="4" facs="tcp:46637:5"/> company cried out, For ſhame drag not a man thus. Moreover one ſpeaking to a ſoldier, that he muſt anſwer this one day before the Lord: he replied. He would an<g ref="char:EOLhyphen"/>ſwer our God well enough. At this time alſo, the ancient Brother before mentioned had many blows made at him; but through the goodneſs of the Lord received a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hurt; though divers others, men and women, were ſhamefully beaten at this time: and after this, riding about where they ſaw any together, fell in amongſt them to diſperſe them taking ſeveral as priſoners, and afterwards letting ſeveral looſe in a private manner, laying nothing to their charge, ſomwhat like that in <hi>Act.</hi> 16. 37. After this, that party of horſe which had been ſo inſolent and inhumane, drew out of the Town, and within a ſhort time after, came in with them about ſeven or eight Troops more, who ſuddenly divided themſelves into ſeveral Inns where we lay, ſhutting up the gates, and ſecuring ſuch as they could finde. Soon after this, one whom they call Major Gen. <hi>Bridges,</hi> with ſeveral others, came into the Town, and at the new Inn proceeded to examination of ſuch whom they had taken, and ſuch alſo whom they had detained in the ſeveral Inns as priſoners but in the end, they were all diſmiſſed except five, who were carried away to <hi>Windſor</hi>-Caſtle: of whoſe particular charge, we can give little account, only thus much we are c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edibly inform'd, that one of them was charg'd only for making an appeal to God <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> prayer between us &amp; them; there being little againſt any as ſpoke or done at them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting.</p>
+            <p>That which was chiefly the ground of their commitment, was drawn ſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by inſnaring queſtions asked them when they were examined againſt themſelve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of their judgement and conſcience: which we leave to every unbiaſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d perſon to judge o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>And this we deſire further to mention, T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at one of the ſubſcribers, <hi>Joh. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> an Elder of the Church at <hi>Abingdon,</hi> being well known for his grace, cautions and very ſparing in his expreſſions at all times, had this laid to his charge when he was examined, That he chal<g ref="char:EOLhyphen"/>lenged one of the Souldiers to fight with him upon <hi>Sal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y plain;</hi> alſo, that he ſhould ſay we had thirty thouſand men more to come to us: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſouldier that ſpake there words, proferred to bring three men to ſwear to the truth of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, though it is well known there were no ſuch words ſpoken by him directly or indirectly: by which the Reader may obſerve what ſons of <hi>Belial</hi> they have amongſt them, who dare adv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nture to ſwear any thing: likewiſe to adviſe the Reader not to give much credit to reports contrary hereunto.</p>
+            <p>This Relation is preſented to publick view, to prevent any falſe Informaſion that may come from any particular perſon, or from our enemies, who may endeavor to poſſeſs men, that there was a deſign of riſing at this meeting, which we do hereby declare againſt, as wel as teſtiſie to the truth of this Relation.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Of the Ch. at <hi>Abi.</hi>
+                        <list>
+                           <item>John Tomkins,</item>
+                           <item>Iohn Comb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>s,</item>
+                           <item>Simon Mayo,</item>
+                           <item>Edw. St<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nnet,</item>
+                           <item>Philip Lockton,</item>
+                           <item>William White,</item>
+                           <item>Rich. Green,</item>
+                           <item>Rich. Perrel,</item>
+                           <item>Simon Pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>k.</item>
+                        </list>
+                     </item>
+                     <item>Of the Ch. at <hi>Oxf.</hi>
+                        <list>
+                           <item>Rich. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>marſh,</item>
+                           <item>Rich. Qu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>lch.</item>
+                        </list>
+                     </item>
+                     <item>Of <hi>Hull.</hi>
+                        <list>
+                           <item>Thom. Cann,</item>
+                           <item>Pet. Tindal.</item>
+                        </list>
+                     </item>
+                     <item>Of <hi>London.</hi>
+                        <list>
+                           <item>Iohn Pugh,</item>
+                           <item>Iohn Green,</item>
+                           <item>Fran. Walton,</item>
+                           <item>Ioſeph Neat,</item>
+                           <item>Tho. Buttivan,</item>
+                           <item>Ric. Parnham,</item>
+                           <item>Iohn Rye,</item>
+                           <item>Rich. D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>nton,</item>
+                           <item>Tho. Whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ler,</item>
+                           <item>Iohn Tuſnel,</item>
+                           <item>Ioh. Portmans,</item>
+                           <item>Iohn Clark,</item>
+                           <item>Iohn Armiger,</item>
+                           <item>Iohn Wood<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>y,</item>
+                           <item>Fran: Young,</item>
+                           <item>David Parry,</item>
+                           <item>Iohn Clements.</item>
+                           <item>Iohn Iones.</item>
+                           <item>Iohn Waters.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <item>Hen. Forty of <hi>Tatnes,</hi> Churches.</item>
+                           <item>Rich. Steed of <hi>Dartmouth,</hi> Churches.</item>
+                           <item>George Allom of <hi>Exeter,</hi> Churches.</item>
+                        </list>
+                     </item>
+                     <item>Of <hi>Northwalſham.</hi>
+                        <list>
+                           <item>Hen. Simmons</item>
+                           <item>Thomas Ruddock,</item>
+                           <item>Tho. Hide, Tho. Helsden.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <list>
+                           <item>William Wainſord, of <hi>Norwich.</hi>
+                           </item>
+                           <item>Fran: Langden of <hi>Cornwal.</hi>
+                           </item>
+                           <item>Hen. Preston.</item>
+                        </list>
+                     </item>
+                  </list>
+               </signed> Had there been an oportunity to get friends together, there would have been many more Subſcribers.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46637:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
